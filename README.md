@@ -208,11 +208,11 @@ background: url(logo);
 ```
 
 ## OUTPUT:
-
 ![output](./out91.png)
 ![output](./out92.png)
 ![output](./out93.png)
 
 ## Result:
 
-The program to design ,develop and deploy a web application for event registration is completed successfully
+The program to design ,develop and deploy a web application for event registration is 
+completed successfully.
